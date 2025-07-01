@@ -9,8 +9,6 @@ Este proyecto realiza un análisis exhaustivo de los datos de los Premios Grammy
 - [Análisis Realizado](#análisis-realizado)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-- [Resultados Principales](#resultados-principales)
-- [Contribuciones](#contribuciones)
 
 ## Introducción
 
