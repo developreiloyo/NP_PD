@@ -11,7 +11,6 @@ Este proyecto realiza un análisis exhaustivo de los datos de los Premios Grammy
 - [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
 - [Resultados Principales](#resultados-principales)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Introducción
 
